@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TriangleTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-04-25T17:08:24" hostname="epicodus-49.local" time="0.0">
+  <properties/>
+  <testcase name="isTriangle_notATrianlge_notATriangle" classname="TriangleTest" time="0.0"/>
+  <testcase name="isTriangle_scaleneTrianlge_scalene" classname="TriangleTest" time="0.0"/>
+  <testcase name="isTriangle_equilateralTrianlge_equilateral" classname="TriangleTest" time="0.0"/>
+  <testcase name="isTriangle_isoscelesTrianlge_isosceles" classname="TriangleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
